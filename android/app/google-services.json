@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848872939797",
+    "project_id": "talk-e-chat-app",
+    "storage_bucket": "talk-e-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848872939797:android:affef943a519c9f10e891c",
+        "android_client_info": {
+          "package_name": "saranshsharma.talk_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848872939797-1tvk6df6lvrl7k3sv5gsehjfs527cbr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRBE3-k9ckE_dVFsEQVUecx1f81jT4r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848872939797-1tvk6df6lvrl7k3sv5gsehjfs527cbr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

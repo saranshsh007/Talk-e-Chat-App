@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">848872939797-1tvk6df6lvrl7k3sv5gsehjfs527cbr6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">848872939797</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmRBE3-k9ckE_dVFsEQVUecx1f81jT4r0</string>
+    <string name="google_app_id" translatable="false">1:848872939797:android:affef943a519c9f10e891c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmRBE3-k9ckE_dVFsEQVUecx1f81jT4r0</string>
+    <string name="google_storage_bucket" translatable="false">talk-e-chat-app.appspot.com</string>
+    <string name="project_id" translatable="false">talk-e-chat-app</string>
+</resources>
