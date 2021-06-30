@@ -1,7 +1,6 @@
 # talk_e
-
-A new Flutter application.
-
+messaging app with audio and video call feature.
+Firebase authentication and database is being used.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
